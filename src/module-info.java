@@ -1,0 +1,2 @@
+module simpleProjectGitHub {
+}
